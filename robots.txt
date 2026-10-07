@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://alphavest999.github.io/awusah-on-leadership/sitemap.xml
+Sitemap: https://solomonawusah.com/awusah-on-leadership/sitemap.xml
